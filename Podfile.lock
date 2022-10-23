@@ -1,0 +1,37 @@
+PODS:
+  - Realm (10.32.0):
+    - Realm/Headers (= 10.32.0)
+  - Realm/Headers (10.32.0)
+  - RealmSwift (10.32.0):
+    - Realm (= 10.32.0)
+  - SDWebImage (5.13.4):
+    - SDWebImage/Core (= 5.13.4)
+  - SDWebImage/Core (5.13.4)
+  - SDWebImageSwiftUI (2.2.1):
+    - SDWebImage (~> 5.10)
+  - SwiftSoup (2.4.3)
+
+DEPENDENCIES:
+  - Realm
+  - RealmSwift
+  - SDWebImageSwiftUI
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SDWebImageSwiftUI
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Realm: a00e93347b8d26d372c7a82f6c0b08d6536a21c8
+  RealmSwift: fe09c29ca409f8f905fe4086f2a52936193f2e3d
+  SDWebImage: e5cc87bf736e60f49592f307bdf9e157189298a3
+  SDWebImageSwiftUI: 2ecf5ab6f574526326b10ecb155e72a88059d0f0
+  SwiftSoup: 3384f2e618cfc1b3cbc7852c16692fe8de13fb8f
+
+PODFILE CHECKSUM: f384ee4008e000d4a00983c5678305c1517232ce
+
+COCOAPODS: 1.11.3
